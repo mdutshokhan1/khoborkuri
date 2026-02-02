@@ -1,0 +1,8 @@
+{
+  "name": "Khoborkuri - Digital News Platform",
+  "description": "A modern, high-performance news platform with a robust admin system for daily updates, video embedding, and hashtag-based discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
